@@ -45,8 +45,9 @@
 
 git branch -d 'NAME'- удалить ветку
 
-git merge 'Naame'- удалить ветку
+для слияние веток, используеим:
 
+* git merge 'name'
 
 
 
